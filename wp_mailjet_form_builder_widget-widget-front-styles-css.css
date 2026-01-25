@@ -1,10 +1,50 @@
-.mailjet_widget_form_builder_container {
-    width: 100%;
+.mailjet_widget_front_container {
+    margin-bottom: 20px;
 }
 
+#mailjet-widget-title-wrap {
+    display: inline;
+    font-size: 12px;
+}
+
+.mj_form_property{
+
+}
+
+.mj_form_property.has-error{
+    border: 1px solid #E74C3C;
+    box-shadow: 0 0 3px #e74c3c;
+}
+
+.mailjet-widget-form-group {
+    margin-bottom: 10px;
+}
+
+.mailjet-widget-form-date {
+    display: flex;
+    flex-direction: column;
+}
+
+.mailjet-widget-label {
+    font-weight: 500;
+    display: inline;
+    cursor: pointer;
+}
+
+#mailjetSubscriptionForm{
+    
+}
+
+#mailjet_widget_email{
+    
+}
+
+.mailjet_widget_front_container input[type=date] {
+    width: fit-content;
+}
 /*
-     FILE ARCHIVED ON 13:37:03 Jun 03, 2025 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:50:32 Dec 31, 2025.
+     FILE ARCHIVED ON 14:58:02 Apr 20, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:27:27 Jan 25, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -12,13 +52,14 @@
 */
 /*
 playback timings (ms):
-  captures_list: 0.806
-  exclusion.robots: 0.087
-  exclusion.robots.policy: 0.075
-  esindex: 0.011
-  cdx.remote: 24.603
-  LoadShardBlock: 107.36 (3)
-  PetaboxLoader3.resolve: 80.535 (3)
-  PetaboxLoader3.datanode: 73.134 (4)
-  load_resource: 77.218
+  captures_list: 0.617
+  exclusion.robots: 0.064
+  exclusion.robots.policy: 0.053
+  esindex: 0.01
+  cdx.remote: 51.253
+  LoadShardBlock: 178.325 (3)
+  PetaboxLoader3.datanode: 276.163 (5)
+  PetaboxLoader3.resolve: 87.084 (2)
+  load_resource: 208.549
+  loaddict: 120.831
 */
