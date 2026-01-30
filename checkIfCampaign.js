@@ -24,14 +24,6 @@ function getCookieRegister(name) {
 
 }
 /*
-     FILE ARCHIVED ON 13:37:02 Jun 03, 2025 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:40:00 Dec 31, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
 playback timings (ms):
   captures_list: 1.192
   exclusion.robots: 0.047
